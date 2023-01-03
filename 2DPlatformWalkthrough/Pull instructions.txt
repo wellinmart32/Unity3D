@@ -1,0 +1,2 @@
+1.- Descomprimir 2DPlatformWalkthrough.rar.
+2.- Copiar en el directorio Unity3D/2DPlatformWalkthrough la carpeta Library de otro proyecto Unity3D.
